@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "Multiple PiP Changer"
+  },
+  "extDesc": {
+    "message": "During the presentation at Google Meet, multiple participant's screens are passed to Picture-in-Picture are automatically changed."
+  },
+  "optDelayTimeDesc": {
+    "message": "Delays a video change for the given number of seconds."
+  },
+  "optPipNotMultipleDesc": {
+    "message": "PiP for Not multiple video and only one video."
+  },
+  "optSave": {
+    "message": "Save"
+  },
+  "optSaveStatus": {
+    "message": "Options saved."
+  }
+}

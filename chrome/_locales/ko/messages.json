@@ -1,0 +1,20 @@
+{
+  "extName": {
+    "message": "Multiple PiP Changer"
+  },
+  "extDesc": {
+    "message": "Google Meet에서 프레젠테이션을 하는 동안에도 여러 참가자의 화면을 볼 수 있으며 한 명씩 자동으로 변경됩니다.(다른 사이트에서도 다중 Picture-in-Picture를 지원합니다.)"
+  },
+  "optDelayTimeDesc": {
+    "message": "지정된 시간(초) 동안 비디오 변경 지연."
+  },
+  "optPipNotMultipleDesc": {
+    "message": "여러 개의 비디오가 아닌 하나의 비디오에 대한 PiP."
+  },
+  "optSave": {
+    "message": "저장"
+  },
+  "optSaveStatus": {
+    "message": "옵션이 저장되었습니다."
+  }
+}
