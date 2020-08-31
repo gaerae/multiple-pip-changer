@@ -1,4 +1,4 @@
-# Multiple PiP Changer
+# Multiple PiP Changer ![Screenshot 1](./chrome/assets/icon19.png)
 
 During the presentation at Google Meet, multiple participant's screens are passed to Picture-in-Picture are automatically changed.
 Other sites also support multiple PiP.
@@ -8,7 +8,7 @@ Keyboard shortcut: Alt + P (⌥ + P on macOS)
 ---
 Google Meet에서 프레젠테이션을 하는 동안에도 여러 참가자의 화면을 볼 수 있으며 한 명씩 자동으로 변경됩니다.
 
-다른 사이트도 Multiple Picture-in-Picture를 지원하며 Single Picture-in-Picture 가능합니다.
+Netflix, Youtube, Amazon Video, Twitch 등의 대부분의 사이트에서 Picture-in-Picture 지원합니다.
 
 Google Meet에서 프레젠테이션 중에 참가자 모습을 볼 수 없어 소통이 어려운 분을 위한 기능이며 필요한 경우만 단축키 혹은 익스텐션 아이콘을 클릭하여 사용하시고 옵션에서 전환 시간 변경이 가능합니다.
 
