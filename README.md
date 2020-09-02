@@ -16,7 +16,7 @@ Google Meet에서 프레젠테이션 중에 참가자 모습을 볼 수 없어 �
 
 ## Installation
 
-Available for installation from the [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-pip-changer/heecooojlcebffhjpmipceockeamgohd) or [releases](releases/).
+Available for installation from the [Chrome Web Store](https://chrome.google.com/webstore/detail/multiple-pip-changer/heecooojlcebffhjpmipceockeamgohd) or [releases](https://github.com/gaerae/multiple-pip-changer/releases).
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/multiple-pip-changer/heecooojlcebffhjpmipceockeamgohd)
 
