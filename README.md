@@ -1,6 +1,7 @@
 # Multiple PiP Changer ![Screenshot 1](./chrome/assets/icon19.png)
 
 During the presentation at Google Meet, multiple participant's screens are passed to [Picture-in-Picture](https://w3c.github.io/picture-in-picture/) are automatically changed.
+
 Supports Picture-in-Picture functionality to YouTube, Netflix, Amazon Video, Twitch, and more!
 
 Keyboard shortcut: Alt + P (⌥ + P on macOS)
